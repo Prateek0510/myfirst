@@ -1,1 +1,2 @@
-This is my first practice commit in git
+This is my first practice commit in git.
+This file has been modified in the child branch.
